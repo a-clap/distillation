@@ -5,6 +5,10 @@
 
 Linux distillation process component.
 
+== Abandoned
+
+WARNING: This repo is abandoned in favor of a monorepo, which lives https://github.com/a-clap/distillation-project[here].
+
 == What is this?
 
 This repo contains software components, which aim is to handle distillation process ;)
